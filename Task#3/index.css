@@ -1,0 +1,11 @@
+.container{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+
+.null{
+   width: 400px;
+   height: 400px;
+   border: 2px dotted black;
+}
